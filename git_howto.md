@@ -13,12 +13,15 @@ git add .\git_howto.md //Добавление конкретного файла.
 ```sh
 git commit
 ```
-
+Показывает состояния файлов
 ```sh
 git status
 ```
+Отображает список всех commit`ов
+```sh
 git log
-git log --oneline
+git log --oneline //Отображает краткий список.
+```
 git checkout
 git checkout master
 git branch
