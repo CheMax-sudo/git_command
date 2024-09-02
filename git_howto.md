@@ -27,5 +27,11 @@ git log --oneline //Отображает краткий список.
 git checkout
 git checkout master //Перейти на основную ветку.
 ```
-git branch
+Позволяет создавать, просматривать, переименовывать и удалять ветки.
+```sh
+git branch <name of new branch>
+```
+Слияние в одну единую ветку.
+```sh
 git merge
+```
