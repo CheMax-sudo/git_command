@@ -22,7 +22,10 @@ git status
 git log
 git log --oneline //Отображает краткий список.
 ```
+Переключение между файлами, фиксациями и ветвями.
+```sh
 git checkout
-git checkout master
+git checkout master //Перейти на основную ветку.
+```
 git branch
 git merge
