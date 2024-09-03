@@ -34,6 +34,7 @@ git checkout master //Перейти на основную ветку.
 ```sh
 git branch <name of new branch>
 git branch // Просмотр всех веток.
+git branch -d <имя_ветки> // 
 ```
 Слияние в одну единую ветку.
 ```sh
