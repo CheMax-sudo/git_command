@@ -44,3 +44,8 @@ git merge
 git diff --staged
 git diff master <имя ветки> //
 ```
+ Удалить файл из индексированных.
+```sh
+git rm --cached <имя>
+git rm log/\*.log // Удаляет все файлы с расширением .log в катологе log/
+```
