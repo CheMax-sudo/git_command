@@ -20,7 +20,7 @@ git status
 Отображает список всех commit`ов
 ```sh
 git log
-git log --oneline // Отображает краткий список.
+git log --oneline //Отображает краткий список.
 ```
 git checkout
 git checkout master
